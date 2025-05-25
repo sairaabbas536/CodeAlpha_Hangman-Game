@@ -32,6 +32,8 @@ This is a beginner-friendly, console-based Hangman game created using core Pytho
 ```bash
 python hangman.py
 
+---
+
 📌 Example:
 Welcome to Hangman!
 
@@ -44,6 +46,7 @@ Word: a _ _ _ _
 Guess a letter: z
 Wrong! Attempts left: 5
 
+---
 
 🔧 Possible Improvements (For Practice)
 .Add word hints
