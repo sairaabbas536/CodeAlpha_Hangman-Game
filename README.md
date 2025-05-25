@@ -1,6 +1,6 @@
 # CodeAlpha_Hangman-Game
 
-# 🎮 Simple Hangman Game in Python
+🎮 Simple Hangman Game in Python
 
 This is a beginner-friendly, console-based Hangman game created using core Python concepts. A great mini-project for practicing control flow, loops, and string/list manipulation.
 
@@ -44,11 +44,12 @@ Word: a _ _ _ _
 Guess a letter: z
 Wrong! Attempts left: 5
 
+
 🔧 Possible Improvements (For Practice)
-Add word hints
+.Add word hints
 
-Allow custom word input
+.Allow custom word input
 
-Track scores or games won
+.Track scores or games won
 
-Add replay option
+.Add replay option
