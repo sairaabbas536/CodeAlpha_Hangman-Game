@@ -53,3 +53,6 @@ Wrong! Attempts left: 5
 .Track scores or games won
 
 .Add replay option
+
+👩‍💻 Created By: Saira Abbas
+GitHub: https: //github.com/sairaabbas536
